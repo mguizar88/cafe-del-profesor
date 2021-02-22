@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'horseback bold';
+    src: url(../fonts/HorsebackSlab-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'thany';
+    src: url(../fonts/thany.otf);
+}
